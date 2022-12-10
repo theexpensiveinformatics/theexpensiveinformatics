@@ -3,6 +3,7 @@
 <h3 align="center">I'm Patel Krushang</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/boy-using-laptop-on-bean-bag-5565311-4688332.png">
 
+
 - 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **flutter & logic building.**
@@ -18,6 +19,9 @@
 - 📫 How to reach me **theexpensiveinformatics@gmail.com**
 
 - ⚡ Fun fact **I ❤️ learning because it makes me more disciplined**
+
+- 🏢 **The Expensive Informatics** is name of my Dream Company.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

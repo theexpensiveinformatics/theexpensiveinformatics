@@ -1,4 +1,4 @@
-[![MasterHead]([https://media-exp1.licdn.com/dms/image/C4D16AQG5_GnnhCBhIw/profile-displaybackgroundimage-shrink_350_1400/0/1654081865744?e=1675900800&v=beta&t=j29010de7-b4oj8g2OhP77eLZGBpUR71L7GnPO3PEns)](https://github.com/theexpensiveinformatics](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
 <h1 align="center">Hlow peeps! 👋</h1>
 <h3 align="center">I'm Patel Krushang</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/boy-using-laptop-on-bean-bag-5565311-4688332.png">

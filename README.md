@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
+![MasterHead](https://miro.medium.com/v2/resize:fit:1006/1*EqJj9M1g3fM2APqS0WNd3A.png))
 <h1 align="center">Hlow peeps! 👋</h1>
 <h3 align="center">I'm Patel Krushang</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/boy-using-laptop-on-bean-bag-5565311-4688332.png">

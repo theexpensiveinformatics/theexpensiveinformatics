@@ -1,7 +1,7 @@
 ![Dash](https://github.com/theexpensiveinformatics/theexpensiveinformatics/assets/107309589/1985b5bf-f79e-4736-93b9-57cab9d7cd7e)![MasterHead](https://kili.aspix.it/Dash.png))
 <h1 align="center">Hlow peeps! 👋</h1>
 <h3 align="center">I'm Patel Krushang</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/boy-using-laptop-on-bean-bag-5565311-4688332.png">
+<img align="right" alt="Coding" width="400" src="https://kili.aspix.it/Dash.png">
 
 
 - 🔭 I’m currently working as **freelancer**

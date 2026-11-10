@@ -1,40 +1,116 @@
-![MasterHead](https://docs.flutter.dev/assets/images/dash/Dashatars.png)
-<h1 align="center">Hlow peeps! 👋</h1>
-<h3 align="center">I'm Patel Krushang</h3>
-<img align="right" alt="Coding" width="400" src="https://kili.aspix.it/Dash.png">
+<a href="https://patelkrushang.com">
+  <img src="assets/header.gif" alt="Patel Krushang's avatar waving, with hello written around him in Indian languages. Hi, I'm Krushang, Solution Architect." width="100%">
+</a>
 
+I live in Ahmedabad and work as a Solution Architect at [Satat Technologies](https://erpnext.satat.tech/), where I lead the design of a complete digital lending system on [Frappe](https://frappe.io).
 
-- 🔭 I’m currently working as **freelancer**
+I joined Satat as a Flutter intern in December 2024, moved to Frappe when the company did, and became Solution Architect 19 months later. Along the way I've implemented ERP, led projects, supported sales and built internal products.
 
-- 🌱 I’m currently learning **flutter & logic building.**
+- 🔭 **Now:** a loan origination and management system (LOS / LMS) for an NBFC, a non-banking lender, in active development
+- 🤖 **Next:** an AI project to automate Frappe implementation, under development as [NextIQ](https://nextiq.in/)
+- 🏆 **Before:** five hackathon and app competition wins during my B.Tech in IT at Parul University
+- 🚀 **Building a startup.** Say hello if you invest or build.
+- 📫 [hello@patelkrushang.com](mailto:hello@patelkrushang.com) · [LinkedIn](https://www.linkedin.com/in/0krushang/) · [Instagram](https://www.instagram.com/0krushang) · [patelkrushang.com](https://patelkrushang.com)
 
-- 💻 Tools that I have learned **Android Studio , Figma.**
+Company and client code is private, so each card below links to the full story on my site, with live demos.
 
-- 👨‍💻 Source Code are available at [https://github.com/theexpensiveinformatics](https://github.com/theexpensiveinformatics)
+## At Satat Technologies
 
-- 🎨 Design Figma file are available at [https://dribbble.com/theexpensiveinformatics]
+<table>
+  <tr>
+    <th width="33%">Calling Agent</th>
+    <th width="33%">NextIQ</th>
+    <th width="33%">Interactive SOW</th>
+  </tr>
+  <tr>
+    <td><a href="https://patelkrushang.com/interesting-customer-story"><img src="assets/work/calling-agent.gif" alt="An AI agent named Riya calls a lead and saves it to the CRM" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/nextiq"><img src="assets/work/nextiq.gif" alt="A business card turned into a CRM lead, task and event" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/interactive-sow"><img src="assets/work/interactive-sow.gif" alt="A comment left on the exact words of a statement of work" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td valign="top">A test at a customer's office became an AI calling agent, and then their whole lending platform.<br><sub><a href="https://patelkrushang.com/interesting-customer-story">Read the story</a> · 2026</sub></td>
+    <td valign="top">Scans a business card, pulls out the details with AI and syncs the lead into ERPNext.<br><sub><a href="https://patelkrushang.com/nextiq">Read the story</a> · <a href="https://nextiq.in/">Live</a> · 2026</sub></td>
+    <td valign="top">A statement of work as one review page, with comments on the exact words and approvals built in.<br><sub><a href="https://patelkrushang.com/interactive-sow">Read the story</a> · 2026</sub></td>
+  </tr>
+</table>
 
--  💬 Ask me about **Ui/Ux**
+## More projects
 
-- 📫 How to reach me **theexpensiveinformatics@gmail.com**
+<table>
+  <tr>
+    <th width="33%">Radheshyam Rollers</th>
+    <th width="33%">Leena Fan</th>
+    <th width="33%">K2Neet</th>
+  </tr>
+  <tr>
+    <td><a href="https://patelkrushang.com/radheshyam-rollers"><img src="assets/work/radheshyam-rollers.gif" alt="A taper roller drawn like an engineering sheet" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/leena-fans"><img src="assets/work/leena-fan.gif" alt="Motors added to an enquiry list from the catalogue" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/k2neet"><img src="assets/work/k2neet.gif" alt="A dark study app with a shimmering star" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td valign="top">A website for a taper roller factory in Rajkot, drawn like an engineering sheet.<br><sub><a href="https://patelkrushang.com/radheshyam-rollers">Read the story</a> · <a href="https://www.radheshyamrollers.com/">Live</a> · 2026</sub></td>
+    <td valign="top">Plain electric motors turned into a website people want to stay on, with all 93 models and one enquiry list.<br><sub><a href="https://patelkrushang.com/leena-fans">Read the story</a> · <a href="https://leena-fans.vercel.app/">Live</a> · 2025</sub></td>
+    <td valign="top">The Flutter frontend of an AI study app for NEET students.<br><sub><a href="https://patelkrushang.com/k2neet">Read the story</a> · <a href="https://play.google.com/store/apps/details?id=com.devkaran.ai">Play Store</a> · 2025</sub></td>
+  </tr>
+  <tr>
+    <th>Krushak</th>
+    <th>IID Website</th>
+    <th>Everything else</th>
+  </tr>
+  <tr>
+    <td><a href="https://patelkrushang.com/krushak"><img src="assets/work/krushak.gif" alt="Four screens of a farming app, switching between all colours and only the green" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/iid-website"><img src="assets/work/iid-website.gif" alt="Programme cards for an interior design institute in three layouts" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com"><img src="assets/work/more.jpg" alt="Patel Krushang's avatar waving hello" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td valign="top">A simple Flutter app that carries a farmer's question to someone who can answer it.<br><sub><a href="https://patelkrushang.com/krushak">Read the story</a> · 2025</sub></td>
+    <td valign="top">A very long home page for an interior design institute, designed in Figma.<br><sub><a href="https://patelkrushang.com/iid-website">Read the story</a> · 2024</sub></td>
+    <td valign="top">Every project, event and post, with the full story behind each one.<br><sub><a href="https://patelkrushang.com">patelkrushang.com</a></sub></td>
+  </tr>
+</table>
 
-- ⚡ Fun fact **I ❤️ learning because it makes me more disciplined**
+## Hackathons and events
 
-- 🏢 **The Expensive Informatics** is name of my Dream Company.
+<table>
+  <tr>
+    <th width="33%">Your Health Mate</th>
+    <th width="33%">PU Code Hackathon</th>
+    <th width="33%">Vadodara Hackathon 4.0</th>
+  </tr>
+  <tr>
+    <td><a href="https://patelkrushang.com/your-health-mate"><img src="assets/work/your-health-mate.gif" alt="Booking a dentist in a health app" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/pu-code-hackathon"><img src="assets/work/pu-code-hackathon.gif" alt="A customer picks a verified provider, who accepts and follows the route" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/vadodara-hackathon"><img src="assets/work/vadodara-hackathon.gif" alt="How much the team prepared in Pune and in Vadodara, and the result" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td valign="top">First rank at the myOnsite Healthcare hackathon, with a Flutter health app built on Gemini AI.<br><sub><a href="https://patelkrushang.com/your-health-mate">Read the story</a> · 2024</sub></td>
+    <td valign="top">First prize out of 166 teams at a 36-hour hackathon, with a home services app.<br><sub><a href="https://patelkrushang.com/pu-code-hackathon">Read the story</a> · <a href="https://github.com/theexpensiveinformatics/pucodehackthon_2.O">Code</a> · 2024</sub></td>
+    <td valign="top">After losing in Pune, we prepared the product and its legal side, not only the tech, and won with Guruzone.<br><sub><a href="https://patelkrushang.com/vadodara-hackathon">Read the story</a> · <a href="https://github.com/theexpensiveinformatics/guruzone">Code</a> · 2023</sub></td>
+  </tr>
+  <tr>
+    <th>Solving for India</th>
+    <th>Brainiac Tunes</th>
+    <th>Live with RJ Goldie</th>
+  </tr>
+  <tr>
+    <td><a href="https://patelkrushang.com/solving-for-india"><img src="assets/work/solving-for-india.jpg" alt="The team at the Solving for India Hackathon" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/brainiac-tunes"><img src="assets/work/brainiac-tunes.gif" alt="Two tones, one for each ear, and the beat you hear" width="100%"></a></td>
+    <td><a href="https://patelkrushang.com/rj-goldie"><img src="assets/work/rj-goldie.jpg" alt="A live video session with RJ Goldie, with its transcript" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td valign="top">My first real hackathon: first in the university with ResQme, an SOS and health guidance app.<br><sub><a href="https://patelkrushang.com/solving-for-india">Read the story</a> · <a href="https://github.com/theexpensiveinformatics/gfgHackthon">Code</a> · 2023</sub></td>
+    <td valign="top">My first working app, a binaural beats app that won first rank and reached the Play Store.<br><sub><a href="https://patelkrushang.com/brainiac-tunes">Read the story</a> · 2022</sub></td>
+    <td valign="top">A live session after the PU Code Hackathon, with a transcript in English and Gujarati.<br><sub><a href="https://patelkrushang.com/rj-goldie">Watch it</a> · 2024</sub></td>
+  </tr>
+</table>
 
+## Writing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theexpensivein1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theexpensivein1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0krushang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0krushang" height="30" width="40" /></a>
-<a href="https://instagram.com/the.expensive.informatics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.expensive.informatics" height="30" width="40" /></a>
-<a href="https://dribbble.com/theexpensiveinformatics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="theexpensiveinformatics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@theexpensiveinformatics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@theexpensiveinformatics" height="30" width="40" /></a>
-</p>
+- [Tech vs ERP](https://patelkrushang.com/tech-vs-erp): how moving from pure tech to ERP changed the first question I ask.
+- [An Interesting Customer Story](https://patelkrushang.com/interesting-customer-story): how a test at a customer's office became an AI calling agent, and then their whole lending platform.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theexpensiveinformatics&show_icons=true&locale=en&layout=compact" alt="theexpensiveinformatics" /></p>
+Frappe and ERPNext, Python, Flutter and Dart, Figma, Next.js, and AI agents.
 
-
+<p align="center"><sub>Every project above has its full story, with live demos, at <a href="https://patelkrushang.com">patelkrushang.com</a>.</sub></p>
